@@ -1,4 +1,4 @@
-package com.cricgroundmanager
+package com.onusant.cricgroundmanager
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

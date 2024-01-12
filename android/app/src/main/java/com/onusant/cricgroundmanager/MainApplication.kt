@@ -1,4 +1,4 @@
-package com.cricgroundmanager
+package com.onusant.cricgroundmanager
 
 import android.app.Application
 import com.facebook.react.PackageList
